@@ -65,6 +65,9 @@ Para desfrutar do PMBOK Game II, siga estas etapas :
 Ao utilizar o PMBOK Game II em seu trabalho de pesquisa, estudo acadêmico ou aulas, por favor, faça referência ao artigo que apresenta o projeto:
 
 link: https://sol.sbc.org.br/index.php/wei/article/view/24925
+
+Souza, Alnne; Souza, Francisco; Vilela, R; Valle, P. "PMBOK Game II: Um Jogo Educacional para Apoiar o Ensino de Gestão de Projetos de Software." In: Anais do XXXI Workshop sobre Educação em Computação. João Pessoa/PB, 2023.
+
 ```
 @inproceedings{wei,
 author = {Alinne Souza and Francisco Souza and Ricardo Vilela and Pedro Valle},
