@@ -36,7 +36,6 @@ title = {PMBOK Game II: Um Jogo Educacional para Apoiar o Ensino de Gestão de P
 booktitle = {Anais do XXXI Workshop sobre Educação em Computação},
 location = {João Pessoa/PB},
 year = {2023},
-keywords = {},
 issn = {2595-6175},
 pages = {454--464},
 publisher = {SBC},
