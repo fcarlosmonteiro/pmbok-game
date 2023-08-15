@@ -4,13 +4,11 @@ Bem-vindo ao repositório do PMBOK Game - Jogo de Tabuleiro para Gestão de Proj
 
 ## Descrição do Projeto
 
-O PMBOK Game II é um mecanismo desenvolvida para facilitar o entendimento dos princípios e processos fundamentais do gerenciamento de projetos, conforme descrito no Guia PMBOK® (Project Management Body of Knowledge). Este jogo foi projetado para tornar o aprendizado da disciplina de gerenciamento de projetos mais acessível, divertido e envolvente, transformando conceitos complexos em desafios estimulantes.
+O PMBOK Game II é um mecanismo desenvolvido para facilitar o entendimento dos princípios e processos fundamentais do gerenciamento de projetos, conforme descrito no Guia PMBOK® (Project Management Body of Knowledge). Este jogo foi projetado para tornar o aprendizado da disciplina de gerenciamento de projetos mais acessível, divertido e envolvente, transformando conceitos complexos em desafios estimulantes.
 
 ## Descrição dos Arquivos
 
 O repositório está estruturado da seguinte maneira:
-
-## Estrutura do Repositório
 
 - **Área de Comunicação**: Recursos relacionados à área de comunicação no jogo.
   - [Fichas de Comunicação](Área%20Comunicação/fichas%20comunicação.png)
@@ -65,7 +63,7 @@ Para desfrutar do PMBOK Game II, siga estas etapas simples:
 
 ## Citação do Artigo publicado no WEI 2023
 
-Ao utilizar o PMBOK Game II em seu trabalho de pesquisa ou estudo acadêmico, por favor, faça referência ao artigo que apresenta e descreve o projeto:
+Ao utilizar o PMBOK Game II em seu trabalho de pesquisa, estudo acadêmico ou aulas, por favor, faça referência ao artigo que apresenta e descreve o projeto:
 
 link: https://sol.sbc.org.br/index.php/wei/article/view/24925
 ```
