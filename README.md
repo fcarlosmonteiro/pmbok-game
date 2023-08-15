@@ -54,7 +54,7 @@ O repositório está estruturado da seguinte maneira:
 
 ## Instruções de Uso
 
-Para desfrutar do PMBOK Game II, siga estas etapas simples:
+Para desfrutar do PMBOK Game II, siga estas etapas :
 
 1. Baixe ou clone este repositório para o seu computador.
 2. Explore os diretórios para acessar o tabuleiro, cartas e o livro de regras.
@@ -62,7 +62,7 @@ Para desfrutar do PMBOK Game II, siga estas etapas simples:
 
 ## Citação do Artigo publicado no WEI 2023
 
-Ao utilizar o PMBOK Game II em seu trabalho de pesquisa, estudo acadêmico ou aulas, por favor, faça referência ao artigo que apresenta e descreve o projeto:
+Ao utilizar o PMBOK Game II em seu trabalho de pesquisa, estudo acadêmico ou aulas, por favor, faça referência ao artigo que apresenta o projeto:
 
 link: https://sol.sbc.org.br/index.php/wei/article/view/24925
 ```
