@@ -27,6 +27,7 @@ Para desfrutar do PMBOK Game II, siga estas etapas simples:
 ## Citação do Artigo publicado no WEI 2023
 
 Ao utilizar o PMBOK Game II em seu trabalho de pesquisa ou estudo acadêmico, por favor, faça referência ao artigo que apresenta e descreve o projeto:
+
 link: https://sol.sbc.org.br/index.php/wei/article/view/24925
 ```
 @inproceedings{wei,
