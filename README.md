@@ -1,5 +1,4 @@
-# PMBOK Game II - Jogo de Tabuleiro para Gestão de Projetos
-
+# PMBOK Game II 
 Bem-vindo ao repositório do PMBOK Game - Jogo de Tabuleiro para Gestão de Projetos! Este projeto visa apresentar uma alternativa de ensino e aprendizado para disciplina de gestão de projetos, este jogo tem o intuito de proporcionar uma experiência interativa e envolvente por meio de um jogo educacional.
 
 ## Descrição do Projeto
