@@ -52,7 +52,7 @@ O repositório está estruturado da seguinte maneira:
   - [Ficha de Pontos (PDF)](Itens%20do%20jogo/ficha%20de%20pontos.pdf)
   - [Fichas das 10 Áreas de Conhecimento](Itens%20do%20jogo/Fichas%2010%20areas%20de%20conhecimento.png)
   - [Tabuleiro](Itens%20do%20jogo/tabuleiro.png)
-- **Manual PMBOK Game II.pdf**: O manual completo do [jogo em formato PDF](Manual%PMBOK%Game%II.pdf).
+- **Manual PMBOK Game II.pdf**: O manual completo do [jogo em formato PDF](Manual%20PMBOK%20Game%20II.pdf)
 
 
 ## Instruções de Uso
